@@ -1,3 +1,4 @@
 {
-  "mongoURI": "mongodb+srv://felix123:8longfly@mydevproject-ozsdi.mongodb.net/test?retryWrites=true&w=majority"
+  "mongoURI": "mongodb+srv://felix123:8longfly@mydevproject-ozsdi.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "mySecretToken"
 }
